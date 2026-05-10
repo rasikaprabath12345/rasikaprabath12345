@@ -234,35 +234,7 @@ My journey is fueled by curiosity, caffeine ☕, creative vision, and the desire
 <!-- VISITOR COUNTER & PROFILE STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-## 👥 **Profile Visitors & Stats** 👀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rasikaprabath12345&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-<!-- Profile Summary -->
-<img src="https://img.shields.io/github/followers/rasikaprabath12345?style=for-the-badge&color=00d4ff&labelColor=000&label=FOLLOWERS" alt="Followers">
-<img src="https://img.shields.io/github/stars/rasikaprabath12345?style=for-the-badge&color=ff006e&labelColor=000&label=TOTAL%20STARS" alt="Total Stars">
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- MODERN BADGE SHOWCASE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 **Achievements & Badges** ⭐
-
-</div>
-
-<div align="center">
 
 ![Developer](https://img.shields.io/badge/💻-Full%20Stack%20Developer-ff006e?style=flat-square&labelColor=000)
 ![Designer](https://img.shields.io/badge/🎨-UI/UX%20Designer-00d4ff?style=flat-square&labelColor=000)
