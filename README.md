@@ -1,17 +1,9 @@
 
-<!-- ╔════════════════════════════════════════════════════════════════════════════════╗
-     ║                                                                                ║
-     ║           🌟 PREMIUM MODERN DEVELOPER PORTFOLIO - DARK CYBERPUNK THEME 🌟     ║
-     ║                                                                                ║
-     ║              Created for: Rasika Prabath | Full Stack & UI/UX Designer        ║
-     ║                                                                                ║
-     ╚════════════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- HERO SECTION WITH ANIMATED TYPING -->
 <div align="center">
 
 <!-- Animated Banner/GIF Section -->
-![Developer Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 <!-- Main Hero Heading -->
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" width="40" height="40" alt="explosion"> Hey, I'm **Rasika Prabath** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40" alt="waving-hand">
@@ -207,7 +199,7 @@ My journey is fueled by curiosity, caffeine ☕, creative vision, and the desire
 <div align="center">
 
 <!-- GitHub Stats Card -->
-![Rasika Prabath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikaprabath12345&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&text_color=00d4ff&title_color=ff006e&count_private=true&include_all_commits=true)
+
 
 </div>
 
@@ -220,8 +212,7 @@ My journey is fueled by curiosity, caffeine ☕, creative vision, and the desire
 
 <div align="center">
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaprabath12345&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&text_color=00d4ff&title_color=ff006e)
+
 
 </div>
 
@@ -233,9 +224,7 @@ My journey is fueled by curiosity, caffeine ☕, creative vision, and the desire
 
 <div align="center">
 
-## 🌱 **Contribution Graph** 📈
 
-![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=rasikaprabath12345&theme=github-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff006e&point=8338ec)
 
 </div>
 
