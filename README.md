@@ -165,7 +165,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-**`— 06 —`** &nbsp; **Philosophy**
+**`— 05 —`** &nbsp; **Philosophy**
 
 <br/>
 
@@ -183,7 +183,7 @@ A product is not what it does. →   it's how it makes you feel.
 
 <div align="center">
 
-*— Sri Lanka · Full Stack · Design Systems · Open for Work —*
+*— Full Stack · Design Systems · Open for Work —*
 
 <br/>
 
