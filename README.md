@@ -15,7 +15,7 @@
 <!-- ── ANIMATED ROLES ──────────────────────────── -->
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&pause=1500&color=A0856C&center=true&vCenter=true&width=760&height=28&lines=UI+%2F+UX+Engineer+%E2%80%94+crafting+interfaces+that+feel+inevitable.;Frontend+Developer+%E2%80%94+where+design+meets+architecture.;Graphic+Designer+%E2%80%94+visual+identity+%26+brand+systems.;Full+Stack+%E2%80%94+MERN+%C2%B7+Spring+Boot+%C2%B7+Laravel+%C2%B7+Java." alt="Roles" />
 
-<br/><br/>
+
 
 <!-- ── SOCIAL BADGES ───────────────────────────── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C)](https://linkedin.com)&nbsp;
@@ -67,9 +67,11 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikaprabath12345&show_icons=true&theme=transparent&hide_border=true&title_color=A0856C&text_color=6b6b6b&icon_color=A0856C&count_private=true&hide_rank=false&include_all_commits=true)
+
 
 <br/>
+<br>
+<br>
 
 ![Streak](https://streak-stats.demolab.com?user=rasikaprabath12345&theme=transparent&hide_border=true&ring=A0856C&fire=A0856C&currStreakLabel=A0856C&sideLabels=6b6b6b&dates=6b6b6b&currStreakNum=ffffff&sideNums=ffffff)
 
@@ -152,26 +154,6 @@ I live at the intersection of **visual craft** and **technical precision** — d
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=A0856C)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=A0856C)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=A0856C)
-
-<br/>
-
----
-
-<!-- ════════════════════════════════════════════════
-     SECTION 05 · LANGUAGES
-════════════════════════════════════════════════ -->
-
-<br/>
-
-**`— 05 —`** &nbsp; **Languages Used**
-
-<br/>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaprabath12345&layout=donut&theme=transparent&hide_border=true&title_color=A0856C&text_color=6b6b6b&langs_count=8)
-
-</div>
 
 <br/>
 
