@@ -17,7 +17,7 @@ const rasika = {
   name: "Rasika Prabath",
   country: "Sri Lanka 🇱🇰",
   role: "Full Stack Developer & Designer",
-  education: "SLIIT - Information technology (IT)",
+  education: "SLIIT - Software Engineering",
   expertise: ["Frontend", "Backend", "UI/UX Design", "Graphic Design"],
   currentFocus: "Full Stack Development & Creative Design",
   openFor: ["Freelance Work", "Collaborations", "Projects"],
@@ -25,7 +25,7 @@ const rasika = {
 ```
 
 - 🎯 Passionate about **scalable code & beautiful design**
-- 💻 Full Stack Developer (**MERN, Java, MySQL**)
+- 💻 Full Stack Developer (**MERN, Spring Boot, Laravel, Java, MySQL**)
 - 🎨 Graphic Designer (**Photoshop, Illustrator, Canva**)
 - 🎭 UI/UX Engineer (**Figma, Adobe XD, Wireframing**)
 - 📱 Building responsive & user-centric web applications
@@ -36,24 +36,37 @@ const rasika = {
 
 <div align="center">
 
-### 💻 Languages
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+### 💻 Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
 
-### 🎨 Frontend & Design
+### 🎨 Frontend
 ![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
-![Illustrator](https://skillicons.dev/icons?i=illustrator)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+
+### 🗄️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+### 🧰 Tools
 ![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 </div>
 
@@ -65,8 +78,6 @@ const rasika = {
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rasikaprabath12345&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaprabath12345&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rasikaprabath12345&theme=react-dark&hide_border=true" />
 
 </div>
 
