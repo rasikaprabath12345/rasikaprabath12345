@@ -17,7 +17,7 @@ const rasika = {
   name: "Rasika Prabath",
   country: "Sri Lanka 🇱🇰",
   role: "Full Stack Developer & Designer",
-  education: "SLIIT - Software Engineering",
+  education: "SLIIT - Information technology (IT)",
   expertise: ["Frontend", "Backend", "UI/UX Design", "Graphic Design"],
   currentFocus: "Full Stack Development & Creative Design",
   openFor: ["Freelance Work", "Collaborations", "Projects"],
