@@ -1,57 +1,77 @@
 <!--
-╔══════════════════════════════════════════════════════════╗
-║         RASIKA PRABATH — GitHub Profile README           ║
-║         Premium UI/UX Designer Edition                   ║
-╚══════════════════════════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  RASIKA PRABATH · Premium GitHub Profile README
+  Graphic Design × UI/UX × Frontend Engineering
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
 <div align="center">
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=60&pause=99999&color=F5F0E8&center=true&vCenter=true&width=700&height=90&lines=Rasika+Prabath" alt="Name" />
+<!-- ── NAME MARK ────────────────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=64&pause=99999&color=FFFFFF&center=true&vCenter=true&width=760&height=100&lines=Rasika+Prabath" alt="Rasika Prabath" />
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=12&pause=99999&color=8A8070&center=true&vCenter=true&width=700&height=28&lines=FULL+STACK+DEVELOPER+%C2%B7+UI%2FUX+ENGINEER+%C2%B7+GRAPHIC+DESIGNER" alt="Role" />
-
-<br/><br/>
-
-[![](https://img.shields.io/badge/LinkedIn-F5F0E8?style=flat-square&logo=linkedin&logoColor=0a0a0a&labelColor=F5F0E8)](https://linkedin.com)&nbsp;
-[![](https://img.shields.io/badge/GitHub-F5F0E8?style=flat-square&logo=github&logoColor=0a0a0a&labelColor=F5F0E8)](https://github.com/rasikaprabath12345)&nbsp;
-[![](https://img.shields.io/badge/Behance-F5F0E8?style=flat-square&logo=behance&logoColor=0a0a0a&labelColor=F5F0E8)](https://behance.net)&nbsp;
-[![](https://img.shields.io/badge/Email-F5F0E8?style=flat-square&logo=gmail&logoColor=0a0a0a&labelColor=F5F0E8)](mailto:your.email@example.com)
+<!-- ── ANIMATED ROLES ──────────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&pause=1500&color=A0856C&center=true&vCenter=true&width=760&height=28&lines=UI+%2F+UX+Engineer+%E2%80%94+crafting+interfaces+that+feel+inevitable.;Frontend+Developer+%E2%80%94+where+design+meets+architecture.;Graphic+Designer+%E2%80%94+visual+identity+%26+brand+systems.;Full+Stack+%E2%80%94+MERN+%C2%B7+Spring+Boot+%C2%B7+Laravel+%C2%B7+Java." alt="Roles" />
 
 <br/><br/>
+
+<!-- ── SOCIAL BADGES ───────────────────────────── -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C)](https://linkedin.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=A0856C)](https://github.com/rasikaprabath12345)&nbsp;
+[![Behance](https://img.shields.io/badge/Behance-0a0a0a?style=flat-square&logo=behance&logoColor=A0856C)](https://behance.net)&nbsp;
+[![Dribbble](https://img.shields.io/badge/Dribbble-0a0a0a?style=flat-square&logo=dribbble&logoColor=A0856C)](https://dribbble.com)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=A0856C)](mailto:your.email@example.com)
+
+<br/>
 
 </div>
 
----
+<!-- ════════════════════════════════════════════════
+     SECTION 01 · IDENTITY
+════════════════════════════════════════════════ -->
+
+<br/>
 
 <table>
 <tr>
-<td width="52%" valign="top">
-
-### `01` &nbsp; About
+<td valign="top" width="55%">
 
 <br/>
 
-> *Crafting interfaces where every pixel has intention,*
-> *and every interaction tells a story.*
+```
+┌─────────────────────────────────────┐
+│  const designer = {                 │
+│    name     : "Rasika Prabath",     │
+│    origin   : "Sri Lanka 🇱🇰",      │
+│    study    : "SLIIT · IT",         │
+│                                     │
+│    thinks   : "design-first",       │
+│    builds   : "pixel-perfect",      │
+│    ships    : "production-ready",   │
+│                                     │
+│    open_for : [                     │
+│      "Freelance Work",              │
+│      "Collaborations",              │
+│      "Creative Projects"            │
+│    ]                                │
+│  };                                 │
+└─────────────────────────────────────┘
+```
 
-<br/>
-
-I'm a **Full Stack Developer & Designer** based in **Sri Lanka 🇱🇰**, studying **Information Technology** at **SLIIT**.
-
-I sit at the intersection of engineering and design — building systems that are architecturally sound and visually refined.
-
-**Open to** — Freelance · Collaborations · Projects
+I live at the intersection of **visual craft** and **technical precision** — designing systems that are beautiful from the first pixel to the last API call.
 
 </td>
-<td width="48%" valign="top">
-
-### `02` &nbsp; Activity
+<td valign="top" width="45%">
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rasikaprabath12345&show_icons=true&theme=transparent&hide_border=true&title_color=C8B89A&text_color=8A8070&icon_color=C8B89A&count_private=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikaprabath12345&show_icons=true&theme=transparent&hide_border=true&title_color=A0856C&text_color=6b6b6b&icon_color=A0856C&count_private=true&hide_rank=false&include_all_commits=true)
+
+<br/>
+
+![Streak](https://streak-stats.demolab.com?user=rasikaprabath12345&theme=transparent&hide_border=true&ring=A0856C&fire=A0856C&currStreakLabel=A0856C&sideLabels=6b6b6b&dates=6b6b6b&currStreakNum=ffffff&sideNums=ffffff)
 
 </td>
 </tr>
@@ -59,84 +79,133 @@ I sit at the intersection of engineering and design — building systems that ar
 
 ---
 
-### `03` &nbsp; Craft & Tools
+<!-- ════════════════════════════════════════════════
+     SECTION 02 · DESIGN STACK
+════════════════════════════════════════════════ -->
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="25%">
+**`— 02 —`** &nbsp; **Design & Visual**
 
-**Design**
+<br/>
 
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=C8B89A)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-1a1a1a?style=flat-square&logo=adobexd&logoColor=C8B89A)
-![Photoshop](https://img.shields.io/badge/Photoshop-1a1a1a?style=flat-square&logo=adobephotoshop&logoColor=C8B89A)
-![Illustrator](https://img.shields.io/badge/Illustrator-1a1a1a?style=flat-square&logo=adobeillustrator&logoColor=C8B89A)
-![Canva](https://img.shields.io/badge/Canva-1a1a1a?style=flat-square&logo=canva&logoColor=C8B89A)
+> The tools behind the aesthetics.
 
-</td>
-<td align="center" width="25%">
+<br/>
 
-**Frontend**
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=A0856C)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-111111?style=for-the-badge&logo=adobexd&logoColor=A0856C)
+![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=A0856C)
+![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=A0856C)
+![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=A0856C)
+![After Effects](https://img.shields.io/badge/After_Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=A0856C)
 
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=C8B89A)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=C8B89A)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=C8B89A)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=C8B89A)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=C8B89A)
-
-</td>
-<td align="center" width="25%">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=C8B89A)
-![Spring](https://img.shields.io/badge/Spring-1a1a1a?style=flat-square&logo=springboot&logoColor=C8B89A)
-![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=flat-square&logo=laravel&logoColor=C8B89A)
-![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=C8B89A)
-![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=C8B89A)
-
-</td>
-<td align="center" width="25%">
-
-**Data & DevOps**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=C8B89A)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=C8B89A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=C8B89A)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=C8B89A)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=C8B89A)
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-### `04` &nbsp; Languages & Streak
+<!-- ════════════════════════════════════════════════
+     SECTION 03 · FRONTEND STACK
+════════════════════════════════════════════════ -->
+
+<br/>
+
+**`— 03 —`** &nbsp; **Frontend Engineering**
+
+<br/>
+
+> Where design becomes code.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A0856C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A0856C)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=A0856C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=A0856C)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=A0856C)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=A0856C)
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════
+     SECTION 04 · BACKEND & DATA
+════════════════════════════════════════════════ -->
+
+<br/>
+
+**`— 04 —`** &nbsp; **Backend & Data**
+
+<br/>
+
+> The foundation beneath the interface.
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=A0856C)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=A0856C)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=A0856C)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=A0856C)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=A0856C)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=A0856C)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=A0856C)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=A0856C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=A0856C)
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════
+     SECTION 05 · LANGUAGES
+════════════════════════════════════════════════ -->
+
+<br/>
+
+**`— 05 —`** &nbsp; **Languages Used**
 
 <br/>
 
 <div align="center">
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaprabath12345&layout=compact&theme=transparent&hide_border=true&title_color=C8B89A&text_color=8A8070&langs_count=6" />
-&nbsp;&nbsp;
-<img width="52%" src="https://streak-stats.demolab.com?user=rasikaprabath12345&theme=transparent&hide_border=true&ring=C8B89A&fire=C8B89A&currStreakLabel=C8B89A&sideLabels=8A8070&dates=8A8070&currStreakNum=F5F0E8&sideNums=F5F0E8" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaprabath12345&layout=donut&theme=transparent&hide_border=true&title_color=A0856C&text_color=6b6b6b&langs_count=8)
 
 </div>
 
+<br/>
+
 ---
 
-<div align="center">
+<!-- ════════════════════════════════════════════════
+     SECTION 06 · PHILOSOPHY
+════════════════════════════════════════════════ -->
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&style=italic&size=20&pause=99999&color=8A8070&center=true&vCenter=true&width=700&lines=%22Design+is+not+decoration.+It+is+function+made+beautiful.%22" alt="Quote" />
+**`— 06 —`** &nbsp; **Philosophy**
 
-<br/><br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rasikaprabath12345&style=flat-square&color=C8B89A&label=profile+views)
+```
+Design is not how it looks.    →   it's how it works.
+Code is not how it runs.       →   it's how it reads.
+A product is not what it does. →   it's how it makes you feel.
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+*— Sri Lanka · Full Stack · Design Systems · Open for Work —*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rasikaprabath12345&style=flat-square&color=A0856C&label=profile+views)
 
 <br/>
 
