@@ -189,8 +189,6 @@ A product is not what it does. →   it's how it makes you feel.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rasikaprabath12345&style=flat-square&color=A0856C&label=profile+views)
 
-<br/>
 
 </div>
